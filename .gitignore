@@ -10,3 +10,4 @@ app/frontent/node_modules*/
 htmlcov/
 .tox/
 docs/_build/
+migrations/
